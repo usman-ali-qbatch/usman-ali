@@ -1,0 +1,22 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg fill="none" width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="#F8D968">
+
+<defs>
+  <linearGradient id="paint0_linear" x1="1.92667" y1="4.65138e-07" x2="19.7024" y2="29.0178" gradientUnits="userSpaceOnUse">
+    <stop offset="0.259336" stop-color="#FFDB6E"/>
+    <stop offset="1" stop-color="#FFBC5E"/>
+  </linearGradient>
+</defs>
+
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g id="SVGRepo_iconCarrier">
+
+  <path d="M3,22H21a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1H3A1,1,0,0,0,2,3V21A1,1,0,0,0,3,22ZM4,10H6V20H4ZM20,20H8V10H20ZM4,4H20V8H4Z" fill="url(#paint0_linear)"/>
+
+</g>
+
+</svg>
